@@ -1,0 +1,21 @@
+[
+	[
+		{
+			"speaker" : "Ponyboy",
+			"dialog" : "Ok, I gotta steal this beer without the clerk noticing...",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Clerk",
+			"dialog" : "Hey! Put that back!",
+			"newSpeaker" : "true"
+		}
+	],
+	[
+		{
+			"speaker" : "Ponyboy",
+			"dialog" : "If I wanna join the gang, I gotta show Blade that I'm willing to follow orders, like vandalizing this wall.",
+			"newSpeaker" : "true"
+		}
+	]
+]
